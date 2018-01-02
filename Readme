@@ -1,0 +1,9 @@
+to use this simple script,
+
+just put your project and commit parameter:
+
+#running
+./extrcat_parents_commit.sh project/path commit
+
+#example
+./extrcat_parents_commit.sh amino33/data_mining 4558fefdf267e5a1cae9986e940fd8cfb79f4277
